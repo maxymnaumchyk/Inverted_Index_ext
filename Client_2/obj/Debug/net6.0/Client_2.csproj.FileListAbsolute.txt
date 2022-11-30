@@ -1,0 +1,74 @@
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\Client_2.exe
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\Client_2.deps.json
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\Client_2.runtimeconfig.json
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\Client_2.dll
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\Client_2.pdb
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\TCP_client.dll
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\TCP_client.pdb
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.csproj.AssemblyReference.cache
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfoInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfo.cs
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.csproj.CopyComplete
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.dll
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\refint\Client_2.dll
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.pdb
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\Client_2.genruntimeconfig.cache
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\obj\Debug\net6.0\ref\Client_2.dll
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\XORCipher.dll
+C:\Users\nikit\source\RiderProjects\Parallel 5 lab\Client_2\bin\Debug\net6.0\XORCipher.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\Client_2.exe
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\Client_2.deps.json
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\Client_2.runtimeconfig.json
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\Client_2.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\TCP_client.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\bin\Debug\net6.0\TCP_client.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.csproj.AssemblyReference.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfoInputs.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfo.cs
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.csproj.CoreCompileInputs.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.csproj.CopyComplete
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\refint\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\Client_2.genruntimeconfig.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Parallel 5 lab_my\Client_2\obj\Debug\net6.0\ref\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\Client_2.exe
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\Client_2.deps.json
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\Client_2.runtimeconfig.json
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\Client_2.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\TCP_client.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\bin\Debug\net6.0\TCP_client.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.csproj.AssemblyReference.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfoInputs.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfo.cs
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.csproj.CoreCompileInputs.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.csproj.CopyComplete
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\refint\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\Client_2.genruntimeconfig.cache
+D:\_Maxym\Documents\IASA\Parallel computing\lab5\Telnet 5 lab\Client_2\obj\Debug\net6.0\ref\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\Client_2.exe
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\Client_2.deps.json
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\Client_2.runtimeconfig.json
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\Client_2.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\TCP_client.dll
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\bin\Debug\net6.0\TCP_client.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.csproj.AssemblyReference.cache
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfoInputs.cache
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.AssemblyInfo.cs
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.csproj.CoreCompileInputs.cache
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.csproj.CopyComplete
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\refint\Client_2.dll
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.pdb
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\Client_2.genruntimeconfig.cache
+D:\_Maxym\Documents\IASA\Parallel computing\Coursework\C#\Client_2\obj\Debug\net6.0\ref\Client_2.dll
